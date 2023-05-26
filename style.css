@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    position: fixed;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    background-color: grey;
+}
+#indecator{
+    height: 20px;
+    width: 0%;
+    background-color: red;
+    
+}
+.text-container{
+    padding: 80px 20px;
+    width: 80%;
+    margin: auto;
+    box-shadow: 3px 3px 10px black;
+    background-color: aquamarine;
+    font-size: 25px;
+    font-family: cursive;
+}
