@@ -1,4 +1,4 @@
-# Scrolling-Target-SimpleWay
+# Scrolling-Indicator-SimpleWay
 I developed this scrolling project let me explain you in simpler Explanation.
 
 So Now I explain you how i develope this scrolling indicator,
