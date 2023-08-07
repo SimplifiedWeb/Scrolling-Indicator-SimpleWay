@@ -1,4 +1,8 @@
 # Scrolling-Indicator-SimpleWay
+# The Main goal is to Understand The Logic How it is working.
+# Open project code one side and this readme another side to better understand what I'm trying to say.
+
+Check out Demo: https://simplifiedweb.github.io/Scrolling-Indicator-SimpleWay/
 I developed this scrolling project let me explain you in simpler Explanation.
 
 So Now I explain you how i develope this scrolling indicator,
